@@ -1,0 +1,15 @@
+.details-right-side {
+    gap: .5rem;
+    flex-grow: 1;
+
+    .data-container {
+        width: 100%;
+        gap: .5rem;
+
+        .data-icon {
+            font-size: 1.4rem;
+            margin-block-start: 5px;
+            color: $image-data-icon;
+        }
+    }
+}

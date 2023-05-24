@@ -1,0 +1,23 @@
+.category-tag {
+    border-radius: $border-radius-big;
+    padding: .4rem .6rem;
+    font-size: .9rem;
+    border: 1px solid $btn-and-tag;
+    color: $btn-and-tag;
+    text-transform: capitalize;
+
+    &:hover {
+        cursor: pointer;
+        background-color: $tag-hover;
+    }
+
+    &:active {
+        background-color: $tag-active;
+        color: $white;
+    }
+
+    &.selected {
+        background-color: $btn-and-tag;
+        color: $white;
+    }
+}

@@ -1,0 +1,17 @@
+.image-loader {
+    width: 250px;
+    height: 185px;
+    background: linear-gradient(110deg, $loader-first-color 8%, $loader-second-color 18%, $loader-first-color 33%);
+    background-size: 200% 100%;
+    animation: 1.5s shine linear infinite;
+    border-radius: $border-radius-small;
+    padding: 0.2em;
+    position: absolute;
+    z-index: 10;
+}
+
+@keyframes shine {
+    to {
+        background-position-x: -200%;
+    }
+}

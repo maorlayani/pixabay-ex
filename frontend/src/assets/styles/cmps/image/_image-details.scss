@@ -1,0 +1,18 @@
+.image-details {
+    width: 100%;
+    padding: 0 2rem 1rem 2rem;
+    gap: 1rem;
+
+    .main-content {
+        width: 100%;
+        gap: 3rem;
+    }
+
+    .bottom-content {
+        gap: .5rem;
+
+        .title {
+            font-weight: 600;
+        }
+    }
+}

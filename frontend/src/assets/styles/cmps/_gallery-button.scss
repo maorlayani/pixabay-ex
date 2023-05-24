@@ -1,0 +1,19 @@
+.gallery-button {
+    background-color: $btn-and-tag;
+    color: $white;
+    margin: 1rem 0;
+
+    &:hover {
+        cursor: pointer;
+        background-color: $btn-hover;
+    }
+
+    &:active {
+        background-color: $btn-active;
+    }
+
+    &:disabled {
+        cursor: no-drop;
+        background-color: $btn-disabled;
+    }
+}

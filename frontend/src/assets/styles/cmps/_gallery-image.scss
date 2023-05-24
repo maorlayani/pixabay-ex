@@ -1,0 +1,19 @@
+.gallery-image-container {
+    .gallery-image {
+        width: 100%;
+        border-radius: $border-radius-small;
+        object-fit: cover;
+        height: 185px;
+        padding: 0.2em;
+
+        &:hover {
+            cursor: pointer;
+            box-shadow: 0px 0px 0px 1px $box-shadow-first-color, 0px 4px 4px $box-shadow-second-color;
+            opacity: .7;
+        }
+
+        &:active {
+            transform: scale(1.01);
+        }
+    }
+}
