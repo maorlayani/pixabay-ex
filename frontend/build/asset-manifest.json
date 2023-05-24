@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ec52818.css",
+    "main.js": "/static/js/main.3ffcfa92.js",
+    "static/media/pixabay-logo.svg": "/static/media/pixabay-logo.60b6c4f3725ef534abb3cc2f445ed70b.svg",
+    "index.html": "/index.html",
+    "main.7ec52818.css.map": "/static/css/main.7ec52818.css.map",
+    "main.3ffcfa92.js.map": "/static/js/main.3ffcfa92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ec52818.css",
+    "static/js/main.3ffcfa92.js"
+  ]
+}
