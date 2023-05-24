@@ -4,11 +4,11 @@
 The app display 9 images from the Bixabay API and presents them in a gallery format.
 
 ## Application Features
-* Pagination - the app implements pagination with backend support.
+* Pagination - The app implements pagination with backend support.
 Users can navigate through different pages of images using the provided Prev and Next buttons.
 * Categories - Users can explore a wide range of categories in two different ways:
-** Categories Button: By clicking the categories button, users can access a selection of categories to choose from.
-** Image Modal Tags: Inside the image details modal, users can also find tags representing various categories.
+1. Categories Button - By clicking the categories button, users can access a selection of categories to choose from.
+2. Image Modal Tags - Inside the image details modal, users can also find tags representing various categories.
 * Image Details Modal - Clicking on an image in the gallery opens a modal window, offering detailed information about the image.
 
 ## Technologies
