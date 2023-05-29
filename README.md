@@ -1,7 +1,7 @@
 # Pixabay-EX - photo gallery
 
 ## Description
-The app display 9 images from the Bixabay API and presents them in a gallery format.
+The app display 9 images from the Pixabay API and presents them in a gallery format.
 
 ## Application Features
 * Pagination - The app implements pagination with backend support.
